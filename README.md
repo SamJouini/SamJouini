@@ -3,12 +3,16 @@
 ## 🚀 About Me 
 👨‍💻 I'm a Software Engineering student at Holberton School and an aspiring Full Stack Developer.  
 📅 I started my first year in March 2014, with an expected graduation date of November 2024.
+
 🌍 Toulouse, France
 
 ## 🧠 Skills
 📚 Strong desire to learn and grow
+
 🧩 Problem-solving and debugging
+
 ⏳ Attention to detail and time management
+
 🤜🤛 Effective communication and teamwork
 
 ## 🔧 Technologies and Tools
@@ -19,9 +23,12 @@
 
  ## 🎓 Certifications
 Fundamentals of Sustainability and Technology | IBM SkillsBuild | 2024
+
 User experience design | IBM SkillsBuild | 2024
+
 Agile Explorer | IBM SkillsBuild | 2024
+
 Project manager  | IBM SkillsBuild | 2024
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SamJouini&show_icons=true&bg_color=2b2b2b&title_color=8bc34a&text_color=fdd835&icon_color=4caf50&border_color=795548)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SamJouini&show_icons=true&bg_color=FFA500&title_color=8bc34a&text_color=FFFFFF&icon_color=4caf50&border_color=795548)

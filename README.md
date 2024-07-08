@@ -1,7 +1,8 @@
 # Hello, I'm Samantha Jouini !👋
 
 ## 🚀 About Me 
-👨‍💻 I'm a Software Engineering student at Holberton School and an aspiring Full Stack Developer.  
+👨‍💻 I'm a Software Engineering student at Holberton School and an aspiring Full Stack Developer. 
+
 📅 I started my first year in March 2014, with an expected graduation date of November 2024.
 
 🌍 Toulouse, France
@@ -31,4 +32,5 @@ Agile Explorer | IBM SkillsBuild | 2024
 Project manager  | IBM SkillsBuild | 2024
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SamJouini&show_icons=true&bg_color=FFA500&title_color=8bc34a&text_color=FFFFFF&icon_color=4caf50&border_color=795548)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SamJouini&show_icons=true&bg_color=FF8C00&title_color=FFFFFF&text_color=FFF0E0&icon_color=FFD700&border_color=FFA500)
+

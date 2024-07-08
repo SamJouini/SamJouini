@@ -32,5 +32,6 @@ Agile Explorer | IBM SkillsBuild | 2024
 Project manager  | IBM SkillsBuild | 2024
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SamJouini&show_icons=true&bg_color=FF8C00&title_color=FFFFFF&text_color=FFF0E0&icon_color=FFD700&border_color=FFA500)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SamJouini&show_icons=true&bg_color=FFDAB9&title_color=FF8C00&text_color=8B4513&icon_color=FFA07A&border_color=FFE4B5)
+
 

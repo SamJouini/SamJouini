@@ -5,6 +5,8 @@
 
 📅 I started my first year in March 2014 with an expected graduation date of November 2024.
 
+💭 Currently, I'm working on Beat the Goblin! A gamified to-do list app.
+
 🌍 Toulouse, France
 
 ## 🧠 Skills

@@ -3,7 +3,7 @@
 ## 🚀 About Me 
 👨‍💻 I'm a Software Engineering student at Holberton School and an aspiring Full Stack Developer. 
 
-📅 I started my first year in March 2014 with an expected graduation date of November 2024.
+📅 I started my first year in March 2024 with an expected graduation date of November 2024.
 
 💭 Currently, I'm working on [Beat the Goblin](https://github.com/SamJouini/Beat_the_Goblin) a gamified to-do list app.
 
